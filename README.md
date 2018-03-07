@@ -20,7 +20,9 @@
 
 	|_ Game
 
-		|_ microbit_workshop.app (the Unity game for window)
+		|_ microbit_workshop.exe (the Unity game exe file for window)
+		|_ microbit_workshop.dll
+		|_ microbit_workshop_Data
 
 
 ## License
