@@ -8,7 +8,7 @@
 
 	|_ Game
 
-		|_ microbit_workshop.app	(the Unity game for osx)
+		|_ microbit_workshop.app (the Unity game for osx)
 
 
 
@@ -20,7 +20,7 @@
 
 	|_ Game
 
-		|_ microbit_workshop.app	(the Unity game for window)
+		|_ microbit_workshop.app (the Unity game for window)
 
 
 ## License
