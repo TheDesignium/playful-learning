@@ -2,14 +2,13 @@
 
 - osx.zip (the files for MAC)
 
-	|_ microbit</ br>
-
+	|_ microbit
 
 		|_ microbit-singleMode.hex (the code file of microbit)
 
 
 
-	|_ Game</ br>
+	|_ Game
 
 
 		|_ microbit_workshop.app	(the Unity game for osx)
@@ -27,7 +26,7 @@
 
 	|_ Game
 
-	
+
 		|_ microbit_workshop.app	(the Unity game for window)
 
 
